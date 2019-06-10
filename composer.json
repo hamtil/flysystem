@@ -17,9 +17,9 @@
   ],
   "require": {
     "php": ">= 7.1",
-    "league/flysystem": "^1.0.45",
-    "nette/di": "~2.4.12",
-    "nette/utils": "~2.5.2"
+    "league/flysystem": "^1.0",
+    "nette/di": "~3.0",
+    "nette/utils": "~3.0"
   },
   "require-dev": {
     "ninjify/qa": "^0.8.0",
